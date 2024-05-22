@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @manuelmillefiori
-- 👀 I’m interested in IT
-- 🌱 I’m currently learning new programming language
+- 👋 in the game.

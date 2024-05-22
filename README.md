@@ -1,1 +1,1 @@
-- 👋 in the game.
+in the game.
